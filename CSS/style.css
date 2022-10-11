@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.features__section {
+  background: #f9fafb;
+}
+
+.cta__section {
+  background: #f9fafb;
+}
+
+.navbarItem:hover {
+  background-color: transparent;
+  color: #289dd2;
+  text-decoration: none;
+}
+
+.footerItem:hover {
+  color: #289dd2;
+  text-decoration: none;
+}
+
+.logIn {
+  border: 1px solid #289dd2;
+  background: #289dd2;
+  color: #fff;
+}
+
+.logIn:hover {
+  border: 1px solid #289dd2;
+  background: #fff;
+  color: #289dd2;
+}
+
+.getStarted {
+  border: 1px solid #289dd2;
+  background: #289dd2;
+  color: #fff;
+}
+
+.getStarted:hover {
+  border: 1px solid #289dd2;
+  background: #fff;
+  color: #289dd2;
+}
+
+.learnMore {
+  border: 1px solid #289dd2;
+  background: #289dd2;
+  color: #fff;
+}
+
+.learnMore:hover {
+  border: 1px solid #289dd2;
+  background: #fff;
+  color: #289dd2;
+}
+
+.submitBtn {
+  border: 1px solid #289dd2;
+  background: #289dd2;
+  color: #fff;
+}
+
+.submitBtn:hover {
+  border: 1px solid #289dd2;
+  background: #fff;
+  color: #289dd2;
+}
+
+.contactItem {
+  outline: 1px solid #289dd2;
+}
+
+.menuBtn {
+  border: 1px solid lightgray;
+}
+
+@media only screen and (max-width: 500px) {
+  .menuBtn {
+    position: absolute;
+    right: 12px;
+  }

@@ -12,4 +12,4 @@ Backend will be incorporated in the near future for user login
 
 ## Tech Stack
 
-**FrontEnd:** HTML, CSS, and JavaScript
+**FrontEnd:** HTML, TailwindCSS, and JavaScript
